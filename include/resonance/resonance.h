@@ -17,7 +17,6 @@ extern "C" {
 #endif
 
 /* Public API */
-int resonance_add(int a, int b);
 const char* resonance_version_string(void);
 
 #ifdef __cplusplus
