@@ -2,3 +2,7 @@
 	path = external/nexus
 	url = https://github.com/LordMartron94/Nexus
 	branch = Development
+[submodule "blaze"]
+	path = external/blaze
+	url = https://github.com/LordMartron94/Blaze
+	branch = Development
