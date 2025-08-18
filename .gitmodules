@@ -1,0 +1,4 @@
+[submodule "nexus"]
+	path = external/nexus
+	url = https://github.com/LordMartron94/Nexus
+	branch = Development
