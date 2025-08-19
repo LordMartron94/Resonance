@@ -1,3 +1,6 @@
+;  Main + Development = Specific Commit pin.
+;  Integration = Latest everywhere to integrate it into the project.
+
 [submodule "nexus"]
 	path = external/nexus
 	url = https://github.com/LordMartron94/Nexus
@@ -5,4 +8,4 @@
 [submodule "blaze"]
 	path = external/blaze
 	url = https://github.com/LordMartron94/Blaze
-	branch = Development
+    branch = Development
